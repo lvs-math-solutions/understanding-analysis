@@ -3,7 +3,7 @@
  
 ---
 
- *Proof.* 
+**Proof.** 
 假设 \(r\) 为有理数，则存在整数 \(p,q \in \Z,(q\neq0,gcd(p,q)=1)\) 使得
 
 \[ r = \dfrac{p}{q}\]
